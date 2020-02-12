@@ -149,6 +149,8 @@ public class Interfaz extends JFrame {
 				}
 
 				Sytem.out.println("Soy el cambio de erick");
+
+				Sytem.out.println("Soy el tercer cambio de erick");
 				
 				
 				
