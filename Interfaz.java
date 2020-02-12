@@ -148,7 +148,7 @@ public class Interfaz extends JFrame {
 					textAreaResul.append("Salario neto: " + String.valueOf(salarioNeto) + "\n");
 				}
 
-				Sytem.out.println("Soy el cambio de erick");
+				Sytem.out.println("Soy el segundo cambio de erick");
 
 				Sytem.out.println("Soy el tercer cambio de erick");
 				
