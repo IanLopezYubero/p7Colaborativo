@@ -147,6 +147,10 @@ public class Interfaz extends JFrame {
 					double salarioNeto = (bonificacion+salarioBase)-retenciones;
 					textAreaResul.append("Salario neto: " + String.valueOf(salarioNeto) + "\n");
 				}
+
+				Sytem.out.println("Soy el segundo cambio de erick");
+
+				Sytem.out.println("Soy el tercer cambio de erick");
 				
 				
 				
